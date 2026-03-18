@@ -39,6 +39,8 @@
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 **TABULAR COLUMN:**
+<img width="1200" height="401" alt="image" src="https://github.com/user-attachments/assets/548845b5-cd0a-4d13-931d-a12c6cf43dd2" />
+
 
 
    **RESULT:**
