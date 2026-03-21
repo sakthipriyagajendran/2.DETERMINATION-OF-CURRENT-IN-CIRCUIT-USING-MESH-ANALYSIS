@@ -43,15 +43,27 @@
 **TABULAR COLUMN:**
 <img width="1200" height="401" alt="image" src="https://github.com/user-attachments/assets/548845b5-cd0a-4d13-931d-a12c6cf43dd2" />
 
+**CALCULATION:**
 
+<img width="1200" height="417" alt="image" src="https://github.com/user-attachments/assets/11e11380-8467-4e4a-8797-c392ec1cb25d" />
+
+<img width="1118" height="1439" alt="image" src="https://github.com/user-attachments/assets/3ab8128a-b1b4-4b6a-a141-e3a24ed57002" />
+
+<img width="1174" height="956" alt="image" src="https://github.com/user-attachments/assets/8da8c641-0ec6-4c4a-a05a-a20729d47bf8" />
+
+
+
+**MARKS SPLIT UP:**
+
+<img width="1600" height="1244" alt="image" src="https://github.com/user-attachments/assets/83e1c541-64cf-467e-a339-f0434e3037d4" />
 
    **RESULT:**
 
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
 
-a)	The current across 330Ω resistor is	A.
+a)	The current across 330Ω resistor is	1.2mA.
 
-b)	The current across 560Ω resistor is	A.
+b)	The current across 560Ω resistor is	4.2mA.
 
-c)	The current across 470Ω resistor is	A.
+c)	The current across 470Ω resistor is	5.4mA.
 
