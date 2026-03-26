@@ -41,13 +41,7 @@
 **TABULAR COLUMN:**
 
 
-**CALCULATION:**
-
-<img width="1200" height="417" alt="image" src="https://github.com/user-attachments/assets/11e11380-8467-4e4a-8797-c392ec1cb25d" />
-
-<img width="1118" height="1439" alt="image" src="https://github.com/user-attachments/assets/3ab8128a-b1b4-4b6a-a141-e3a24ed57002" />
-
-<img width="1174" height="956" alt="image" src="https://github.com/user-attachments/assets/8da8c641-0ec6-4c4a-a05a-a20729d47bf8" />
+**CALCULATION:**/>
 
 
 
